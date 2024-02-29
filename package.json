@@ -1,6 +1,6 @@
 {
   "name": "react-typescript-webpack-package",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Make React app using typescript & webapck",
   "main": "src/index.tsx",
   "git repository": "",
