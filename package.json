@@ -6,8 +6,7 @@
   "git repository": "",
   "scripts": {
     "start": " tsc && webpack-dev-server --mode development --open --hot",
-    "build": "webpack --mode production",
-    "postinstall": "node init.js"
+    "build": "webpack --mode production"
   },
   "keywords": [
     "react",
@@ -16,7 +15,7 @@
     "tailwind"
   ],
   "author": "VijaySingh8650",
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {
     "ncp": "^2.0.0",
     "react": "^18.2.0",

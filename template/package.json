@@ -1,9 +1,8 @@
 {
   "name": "react-typescript-webpack-package",
   "version": "1.0.1",
-  "description": "Make React app using typescript & webapck",
+  "description": "",
   "main": "src/index.tsx",
-  "git repository": "",
   "scripts": {
     "start": " tsc && webpack-dev-server --mode development --open --hot",
     "build": "webpack --mode production"
@@ -14,7 +13,7 @@
     "typescript",
     "tailwind"
   ],
-  "author": "VijaySingh8650",
+  "author": "",
   "license": "ISC",
   "dependencies": {
     "react": "^18.2.0",
