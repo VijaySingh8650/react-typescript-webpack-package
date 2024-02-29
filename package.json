@@ -1,5 +1,5 @@
 {
-  "name": "react-typescript-webpack",
+  "name": "react-typescript-webpack-package",
   "version": "1.0.0",
   "description": "Make React app using typescript & webapck",
   "main": "src/index.tsx",
@@ -14,7 +14,7 @@
     "typescript",
     "tailwind"
   ],
-  "author": "Vijay Singh Rathore",
+  "author": "VijaySingh8650",
   "license": "ISC",
   "dependencies": {
     "react": "^18.2.0",
