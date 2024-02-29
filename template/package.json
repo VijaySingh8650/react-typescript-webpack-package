@@ -1,13 +1,12 @@
 {
   "name": "react-typescript-webpack-package",
-  "version": "1.0.2",
+  "version": "1.0.1",
   "description": "Make React app using typescript & webapck",
   "main": "src/index.tsx",
   "git repository": "",
   "scripts": {
     "start": " tsc && webpack-dev-server --mode development --open --hot",
-    "build": "webpack --mode production",
-    "postinstall": "node init.js"
+    "build": "webpack --mode production"
   },
   "keywords": [
     "react",
@@ -18,7 +17,6 @@
   "author": "VijaySingh8650",
   "license": "ISC",
   "dependencies": {
-    "ncp": "^2.0.0",
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
   },
