@@ -2,8 +2,8 @@
   "name": "react-typescript-webpack-package",
   "version": "0.0.5",
   "description": "Make React app using typescript & webapck",
-  "main": "src/index.tsx",
-  "git repository": "",
+  "main": "init.js",
+  "git repository": "https://github.com/VijaySingh8650/react-typescript-webpack-package",
   "scripts": {
     "start": " tsc && webpack-dev-server --mode development --open --hot",
     "build": "webpack --mode production"
